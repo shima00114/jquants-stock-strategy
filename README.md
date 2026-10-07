@@ -1,10 +1,11 @@
-# Japanese Equity Quantitative Trading Strategy (J-Quants)
+# Japanese Equity Quantitative Trading Strategy
 
 This repository contains the source code and documentation for a quantitative stock trading strategy targeting Japanese equities using J-Quants market data.
 
 ## 📈 Strategy Overview
 
-Starting from an initial negative Sharpe ratio, this model was iteratively refined into a market-neutral mean-reversion strategy. By focusing on **transaction cost reduction** and **systematic risk removal**, the strategy achieved a positive Sharpe ratio (`0.011277`) in official competition evaluation.
+Starting from an initial negative Sharpe ratio, this model was iteratively refined into a market-neutral mean-reversion strategy. 
+By focusing on **transaction cost reduction** and **systematic risk removal**, the strategy achieved a positive Sharpe ratio.
 
 ### Key Strategy Mechanics
 
